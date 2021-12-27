@@ -1,5 +1,5 @@
 ### Hi there 👋, I'm Saishwar Anand
-#### I am Web developer and Designer
+#### I am a Web developer and Designer
 
 I'm an intermediate Web Developer having good skills in JavaScript , React Js ,Cascading Style Sheets (CSS) ,HTML and Bootstrap.
 I'm part of the core sponsorship team at Hack club NMIT.
