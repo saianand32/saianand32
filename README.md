@@ -9,7 +9,7 @@ from NMIT Bangalore.
 You can checkout my linkedin at https://www.linkedin.com/in/saishwar-anand-b28673204/
 
 
-![Saishwar's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=midnight-purple&show_icons=true)
+![Saishwar's GitHub stats](https://github-readme-stats.vercel.app/api?username=saianand32&theme=midnight-purple&show_icons=true)
 
 <!--
 **saianand32/saianand32** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
