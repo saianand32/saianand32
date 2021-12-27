@@ -1,12 +1,17 @@
-### Hey!!👋
+### Hi there 👋, Saishwar Anand
+#### Web Developer and Designer
+![Web Developer and Designer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
-I'm Saishwar Anand and I'm an intermediate Web Developer having good skills in JavaScript , React Js ,
-Cascading Style Sheets (CSS) ,HTML and Bootstrap.
-I'm part of the core sponsorship team at Hack club NMIT.
-I'm well versed in C (Programming Language) , C++ and have good problem solving skills.
-I'm Currently pursuing Bachelor of Engineering in Information Science & Technology
-from NMIT Bangalore.
-You can checkout my linkedin at https://www.linkedin.com/in/saishwar-anand-b28673204/
+I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
+
+Skills: REACT / JS / HTML / CSS
+
+- 🔭 I’m currently working on this page. 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/saianand32)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/saishwar-anand/)  
+
+
 
 
 ![Saishwar's GitHub stats](https://github-readme-stats.vercel.app/api?username=saianand32&theme=algolia&show_icons=true)
