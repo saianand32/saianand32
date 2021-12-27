@@ -1,6 +1,7 @@
 ### Hi there 👋, Saishwar Anand
 #### Web Developer and Designer
-![Web Developer and Designer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![Web Developer and Designer]
+![Saishwar's GitHub stats](https://github-readme-stats.vercel.app/api?username=saianand32&theme=algolia&show_icons=true)
 
 I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
 
@@ -14,7 +15,7 @@ Skills: REACT / JS / HTML / CSS
 
 
 
-![Saishwar's GitHub stats](https://github-readme-stats.vercel.app/api?username=saianand32&theme=algolia&show_icons=true)
+
 
 <!--
 **saianand32/saianand32** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
