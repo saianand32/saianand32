@@ -17,7 +17,7 @@ from NMIT Bangalore.
  
 <h1 align="center">Hey there👋, I'm Saishwar Anand</h1>
 
-![align="center"](https://komarev.com/ghpvc/?username=saianand32)
+
 
 <h3 align="center">I am a Professional Web Developer and Designer having good skills in JavaScript , React Js ,Cascading Style Sheets (CSS) ,HTML and Bootstrap. I'm part of the core sponsorship team at Hack club NMIT. I'm well versed in C (Programming Language) , C++ and have good problem solving skills. Currently pursuing Bachelor of Engineering in Information Science & Technology from NMIT Bangalore.</h3>
 
@@ -30,6 +30,9 @@ from NMIT Bangalore.
 - 📫 Reach me at- **saishwaranand32@gmail.com**
 
 - 📄 My Resume- [https://drive.google.com/file/d/1_0bRu039bsvoPoPtnCIBGWm7a33JJMHZ/view?usp=sharing](https://drive.google.com/file/d/1_0bRu039bsvoPoPtnCIBGWm7a33JJMHZ/view?usp=sharing)
+<h3 align="left">Profile Views:</h3>
+
+![align="center"](https://komarev.com/ghpvc/?username=saianand32)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
