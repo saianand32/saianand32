@@ -6,6 +6,8 @@ I'm well versed in C (Programming Language) , C++ and have good problem solving 
 Currently pursuing Bachelor of Engineering in Information Science & Technology
 from NMIT Bangalore.
 
+![](https://komarev.com/ghpvc/?username=saianand32)
+
 ### Skills-
  - ⚛️ React Js, HTML, CSS
   - 💻 C, C++, Javascript -->
