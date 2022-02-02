@@ -16,7 +16,9 @@ from NMIT Bangalore.
 
  
 <h1 align="center">Hey there👋, I'm Saishwar Anand</h1>
+
 ![](https://komarev.com/ghpvc/?username=saianand32)
+
 <h3 align="center">I am a Professional Web Developer and Designer having good skills in JavaScript , React Js ,Cascading Style Sheets (CSS) ,HTML and Bootstrap. I'm part of the core sponsorship team at Hack club NMIT. I'm well versed in C (Programming Language) , C++ and have good problem solving skills. Currently pursuing Bachelor of Engineering in Information Science & Technology from NMIT Bangalore.</h3>
 
 - 🔭 I’m currently working on [News_api_integrate_reactapp](https://github.com/saianand32/News_api_integrate_reactapp)
