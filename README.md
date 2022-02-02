@@ -39,7 +39,8 @@ from NMIT Bangalore.
 <br><br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saianand32&layout=compact)](https://github.com/saianand32/github-readme-stats)
-![](https://komarev.com/ghpvc/?username=your-github-username&style=flat-square)
+
+![](https://komarev.com/ghpvc/?username=your-github-username)
 
 
 <!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=saianand32&theme=buefy&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats) -->
