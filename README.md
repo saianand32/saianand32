@@ -9,8 +9,8 @@ from NMIT Bangalore.
 
 
 ### Skills-
- - ⚛️ React Js, HTML, CSS
-  - 💻 C, C++, Javascript -->
+ - ⚛️ React Js, Redux, REST Api's and Web-Design
+  - 💻 Java and Javascript -->
   
    
 
@@ -19,13 +19,13 @@ from NMIT Bangalore.
 
 
 
-<h3 align="center">I am a Professional Web Developer and Designer having good skills in JavaScript , React Js ,Cascading Style Sheets (CSS) ,HTML and Bootstrap. I'm part of the core sponsorship team at Hack club NMIT. I'm well versed in C (Programming Language) , C++ and have good problem solving skills. Currently pursuing Bachelor of Engineering in Information Science & Technology from NMIT Bangalore.</h3>
+<h3 align="center">I am a Professional Web Developer and Designer developing web-applications using JavaScript and React Js. I'm the club lead at Hack club NMIT, which is a community of 400+ student developers. I'm well versed in Data Structures and Algorithms using JAVA as my core language to implement them. I'm Currently pursuing Bachelor of Engineering in Information Science & Technology from NMIT, Bangalore.</h3>
 
-- 🔭 I’m currently working on [News_api_integrate_reactapp](https://github.com/saianand32/News_api_integrate_reactapp)
+- 🔭 I’m currently working on [NFT-WarrantySystem-BITOffensive](https://github.com/saianand32/NFT-WarrantySystem-BITOffensive-)
 
 - 🌱 I’m currently learning **Computer Networking, Databases and Redux**
 
-- 💬 Ask me about **React, Javascript and Web-Design**
+- 💬 Ask me about **Java, React, Javascript and Web-Design**
 
 - 📫 Reach me at- **saishwaranand32@gmail.com**
 
