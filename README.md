@@ -29,7 +29,7 @@ from NMIT Bangalore.
 
 - 📫 Reach me at- **saishwaranand32@gmail.com**
 
-- 📄 My Resume- [https://drive.google.com/file/d/18zcxj23p-53SPWy3vAGef80tC474gxnT/view?usp=sharing)
+- 📄 My Resume- https://drive.google.com/file/d/1JzQ567RrxOt5LUbM79qhKMyFBdLlL8vx/view?usp=sharing
 <h3 align="left">Profile Views:</h3>
 
 ![align="center"](https://komarev.com/ghpvc/?username=saianand32) <h3 align="left">Connect with me:</h3>
