@@ -19,7 +19,7 @@ from NMIT Bangalore.
 
 
 
-<h3 align="center">I am a Professional Web Developer and Designer developing web-applications using JavaScript and React Js. I'm the club lead at Hack club NMIT, which is a community of 400+ student developers. I'm well versed in Data Structures and Algorithms using JAVA as my core language to implement them. I'm Currently pursuing Bachelor of Engineering in Information Science & Technology from NMIT, Bangalore</h3>
+<h3 align="center">I am a Fullstack Web Developer and Designer developing web-applications using JavaScript and React Js. I'm the club lead at Hack club NMIT, which is a community of 400+ student developers. I'm well versed in Data Structures and Algorithms using JAVA as my core language to implement them. I'm Currently pursuing Bachelor of Engineering in Information Science & Technology from NMIT, Bangalore</h3>
 
 - 🔭 I’m currently working on [NFT-WarrantySystem-BITOffensive](https://github.com/saianand32/NFT-WarrantySystem-BITOffensive-)
 
