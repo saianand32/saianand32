@@ -29,9 +29,6 @@ from NMIT Bangalore.
 
 - 📫 Reach me at- **saishwaranand139@gmail.com**
 
-- 📄 My Resume- https://drive.google.com/file/d/1JzQ567RrxOt5LUbM79qhKMyFBdLlL8vx/view?usp=sharing
-<h3 align="left">Profile Views:</h3>
-
 ![align="center"](https://komarev.com/ghpvc/?username=saianand32) <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/saishwar-anand-b28673204" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saishwar-anand-b28673204" height="30" width="40" /></a>
