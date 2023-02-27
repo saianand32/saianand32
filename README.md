@@ -1,15 +1,15 @@
 <!-- # Hi there 👋, I'm Saishwar Anand
 
-I am a Fullstack Web Developer and Designer having good skills in JavaScript , React Js ,Cascading Style Sheets (CSS) ,HTML and Bootstrap.
-I'm part of the core sponsorship team at Hack club NMIT.
-I'm well versed in C (Programming Language) , C++ and have good problem solving skills.
+I am a Fullstack Web Developer and Designer having excellent skills in JavaScript, ReactJs, Redux, NodeJS, ExpressJS, MongoDB, Cascading Style Sheets (CSS) and HTML.
+I'm the Technical Lead at Hack club NMIT.
+I'm well versed in Algorithms and data structures using Java and Javascript. 
 Currently pursuing Bachelor of Engineering in Information Science & Technology
 from NMIT Bangalore.
 
 
 
 ### Skills-
- - ⚛️ React Js, Redux, REST Api's and Web-Design
+ - ⚛️ React Js, Redux, REST Api's, Redux, NodeJs, (Full-stack) web development
   - 💻 Java and Javascript -->
   
    
@@ -21,11 +21,11 @@ from NMIT Bangalore.
 
 <h3 align="center">I am a Fullstack Web Developer and Designer developing web-applications using JavaScript and React Js. I'm the club lead at Hack club NMIT, which is a community of 400+ student developers. I'm well versed in Data Structures and Algorithms using JAVA as my core language to implement them. I'm Currently pursuing Bachelor of Engineering in Information Science & Technology from NMIT, Bangalore</h3>
 
-- 🔭 I’m currently working on [NFT-WarrantySystem-BITOffensive](https://github.com/saianand32/NFT-WarrantySystem-BITOffensive-)
+- 🔭 I’m currently working on a Geofencing enhancement algorithm to improve my geofence application.
 
-- 🌱 I’m currently learning **Computer Networking, Databases and Redux**
+- 🌱 I’m currently learning **Computer Networking, Graphs Data structures and dynamic programming**
 
-- 💬 Ask me about **Java, React, Javascript and Web-Design**
+- 💬 Ask me about **Java, ReactJS, Javascript and Web-Design**
 
 - 📫 Reach me at- **saishwaranand139@gmail.com**
 
