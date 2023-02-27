@@ -23,7 +23,7 @@ from NMIT Bangalore.
 
 - 🔭 I’m currently working on a Geofencing enhancement algorithm to improve my geofence application.
 
-- 🌱 I’m currently learning **Computer Networking, Graphs Data structures and dynamic programming**
+- 🌱 I’m currently learning **Computer Networking, Graphs Data structure and dynamic programming**
 
 - 💬 Ask me about **Java, ReactJS, Javascript and Web-Design**
 
