@@ -19,15 +19,15 @@ from NMIT Bangalore.
 
 
 
-<h3 align="center">I am a Fullstack Web Developer and Designer developing web-applications using JavaScript, ReactJS, Redux, NodeJS, Express and MongoDB. I'm the club lead at Hack club NMIT, which is a community of 400+ student developers. I'm well versed in Data Structures and Algorithms using JAVA as my core language to implement them. I'm Currently pursuing Bachelor of Engineering in Information Science & Technology from NMIT, Bangalore</h3>
+<h3 align="center">I am a Fullstack Web Developer and Designer developing web-applications using JavaScript, ReactJS, Redux, NodeJS, Express and MongoDB. Also, I'm the club lead at Hack club NMIT, which is a community of 400+ student developers. I'm well versed in Data Structures and Algorithms using JAVA as my core language to implement them. I'm Currently pursuing Bachelor of Engineering in Information Science & Technology from NMIT, Bangalore</h3>
 
-- 🔭 I’m currently working on a Geofencing enhancement algorithm to improve my geofence application.
+- 🔭 I’m currently working on a **Geofencing enhancement algorithm** to improve my geofence application.
 
 - 🌱 I’m currently learning **Computer Networking, Graphs Data structure and dynamic programming**
 
-- 💬 Ask me about **Java, ReactJS, Javascript and Web-Design**
+- 💬 Ask me about **JavaScript, ReactJS, Java and Web-Design**.
 
-- 📫 Reach me at- **saishwaranand139@gmail.com**
+- 📫 Reach me at- **saishwaranand139@gmail.com**.
 
 ![align="center"](https://komarev.com/ghpvc/?username=saianand32) <h3 align="left">Connect with me:</h3>
 <p align="left">
