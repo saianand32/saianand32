@@ -1,11 +1,5 @@
 <!-- # Hi there 👋, I'm Saishwar Anand
 
-I am a Fullstack Web Developer and Designer at MadScientist having excellent skills in JavaScript, ReactJs, Redux, NodeJS, ExpressJS, MongoDB, Cascading Style Sheets (CSS) and HTML.
-I'm the Technical Lead at Hack club NMIT.
-I'm well versed in Algorithms and data structures using Java and Javascript. 
-Currently pursuing Bachelor of Engineering in Information Science & Technology
-from NMIT Bangalore.
-
 
 
 ### Skills-
