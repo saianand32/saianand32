@@ -12,8 +12,9 @@
 <h1 align="center">Hey there👋, I'm Saishwar Anand</h1>
 
 
-
+<!-- 
 <h3 align="center">I am a Fullstack Web Developer and Designer developing web-applications using JavaScript, ReactJS, Redux, NodeJS, Express and MongoDB. Also, I'm the club lead at Hack club NMIT, which is a community of 400+ student developers. I'm well versed in Data Structures and Algorithms using JAVA as my core language to implement them. I'm Currently pursuing Bachelor of Engineering in Information Science & Technology from NMIT, Bangalore</h3>
+-->
 
 - 🔭 I’m currently working on a **Geofencing enhancement algorithm** to improve my geofence application.
 
