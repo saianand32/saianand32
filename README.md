@@ -22,7 +22,7 @@
 
 - 💬 Ask me about **JavaScript, ReactJS, Java and Web-Design**.
 
-- 📫 Reach me at- **saishwaranand139@gmail.com**.
+<!-- - 📫 Reach me at- **saishwaranand139@gmail.com**. -->
 
 ![align="center"](https://komarev.com/ghpvc/?username=saianand32) <h3 align="left">Connect with me:</h3>
 <p align="left">
