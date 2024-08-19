@@ -18,7 +18,7 @@
 
 - 🔭 I’m currently working on a **Geofencing enhancement algorithm** to improve my geofence application.
 
-- 🌱 I’m currently learning **Computer Networking, Graphs Data structure and dynamic programming**
+- 🌱 I’m currently learning **GoLang, Graph Databases(Neo4j) & Docker **
 
 - 💬 Ask me about **JavaScript, ReactJS, Java and Web-Design**.
 
