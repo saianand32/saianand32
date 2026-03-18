@@ -1,6 +1,6 @@
 <h1 align="center">Hey there 👋</h1>
 
-<h3 align="center">Jr Software Engineer [SDE-1] | Full Stack | Tech Enthusiast</h3>
+<h3 align="center">Software Engineer [SDE-1] | Full Stack | Tech Enthusiast</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Golang;Cloud;Graph+Databases" alt="Typing SVG" />
@@ -10,7 +10,7 @@
 
 ## 🚀 About Me
 
-I'm a **Jr Software Engineer** specializing in **Golang** and **Neo4j graph databases**, with a passion for building scalable backend systems and exploring distributed architectures. I also develop full-stack web applications using the modern JavaScript ecosystem.
+I'm a **Software Engineer** specializing in **Golang** and **Neo4j graph databases**, with a passion for building scalable backend systems and exploring distributed architectures. I also develop full-stack web applications using the modern JavaScript ecosystem.
 
 Previously led a thriving community of **400+ student developers** as Club Lead at **Hack Club NMIT**, where I fostered innovation and collaboration among aspiring engineers.
 
